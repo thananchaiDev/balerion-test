@@ -1,0 +1,99 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Env / secrets
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Tmp
+tmp/
+*.tmp
+
+# Claude
+CLAUDE.md
+**/CLAUDE.md
+.claude/
+.mcp.json
+
+# --- Go (backend) ---
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+vendor/
+bin/
+dist/
+coverage.out
+coverage.html
+
+# --- Node / React (frontend/react) ---
+node_modules/
+.next/
+out/
+build/
+.cache/
+.parcel-cache/
+.eslintcache
+.turbo/
+.vite/
+
+# --- React Native (frontend/react-native) ---
+# Metro
+.metro-health-check*
+metro.config.local.js
+
+# Expo
+.expo/
+.expo-shared/
+web-build/
+
+# iOS
+ios/Pods/
+ios/build/
+ios/.xcode.env.local
+ios/DerivedData/
+*.xcuserstate
+xcuserdata/
+*.xcworkspace/xcuserdata/
+
+# Android
+android/.gradle/
+android/build/
+android/app/build/
+android/local.properties
+android/keystores/release.keystore
+*.keystore
+!debug.keystore
+.gradle/
+
+# Build outputs
+*.apk
+*.aab
+*.ipa
+
+# --- Testing / coverage ---
+coverage/
+.nyc_output/
+
+# --- Misc ---
+*.pid
+*.seed
+*.pid.lock

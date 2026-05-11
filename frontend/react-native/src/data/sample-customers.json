@@ -1,0 +1,8 @@
+[
+  {
+    "customerId": "CT-SUKIYA",
+    "name": "Sukiya Sushi (Siam)",
+    "creditLimit": 10000
+  },
+  { "customerId": "CT-MARRT", "name": "Marriott Pattaya", "creditLimit": 80000 }
+]

@@ -1,0 +1,25 @@
+{
+  "items": [
+    "SAL-NOR-A",
+    "SAL-NOR-B",
+    "SAL-CHI-A",
+    "SAL-FAR-A",
+    "SAL-SCT-A"
+  ],
+  "warehouses": ["WH-BKK", "WH-CNX", "WH-HKT", "WH-PTY"],
+  "suppliers": ["SP-MOWI", "SP-AQCH", "SP-BAKK", "SP-SSF"],
+  "namedCustomers": [
+    { "id": "CT-SUKIYA", "name": "Sukiya Sushi (Siam)" },
+    { "id": "CT-MARRT", "name": "Marriott Pattaya" },
+    { "id": "CT-OISHI", "name": "Oishi Grand Restaurant" },
+    { "id": "CT-FUJI", "name": "Fuji Japanese" },
+    { "id": "CT-MK", "name": "MK Restaurants" },
+    { "id": "CT-CENTRA", "name": "Centara Grand BKK" },
+    { "id": "CT-TOPS", "name": "Tops Food Hall" },
+    { "id": "CT-VILLA", "name": "Villa Market" },
+    { "id": "CT-ICONS", "name": "IconSiam Foodcourt" },
+    { "id": "CT-ZEN", "name": "ZEN Restaurant" },
+    { "id": "CT-BIGC", "name": "Big C Premium" },
+    { "id": "CT-ANANT", "name": "Anantara Resorts" }
+  ]
+}

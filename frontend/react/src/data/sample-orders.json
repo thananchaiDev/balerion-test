@@ -1,0 +1,50 @@
+[
+  {
+    "order": "ORDER-0001",
+    "subOrder": "ORDER-0001-001",
+    "itemId": "SAL-NOR-A",
+    "warehouseId": "WH-BKK",
+    "supplierId": "SP-MOWI",
+    "request": 11,
+    "type": "DAILY",
+    "createDate": "2025-01-01",
+    "customerId": "CT-SUKIYA",
+    "remark": "Daily restock — sushi counter"
+  },
+  {
+    "order": "ORDER-0001",
+    "subOrder": "ORDER-0001-002",
+    "itemId": "SAL-CHI-A",
+    "warehouseId": "WH-BKK",
+    "supplierId": "SP-000",
+    "request": 20,
+    "type": "DAILY",
+    "createDate": "2025-01-01",
+    "customerId": "CT-SUKIYA",
+    "remark": "Any supplier OK"
+  },
+  {
+    "order": "ORDER-0002",
+    "subOrder": "ORDER-0002-001",
+    "itemId": "SAL-NOR-A",
+    "warehouseId": "WH-PTY",
+    "supplierId": "SP-AQCH",
+    "request": 300,
+    "type": "EMERGENCY",
+    "createDate": "2025-01-03",
+    "customerId": "CT-MARRT",
+    "remark": "VIP wedding banquet — Sat 8pm"
+  },
+  {
+    "order": "ORDER-0002",
+    "subOrder": "ORDER-0002-002",
+    "itemId": "SAL-CHI-A",
+    "warehouseId": "WH-000",
+    "supplierId": "SP-000",
+    "request": 100,
+    "type": "EMERGENCY",
+    "createDate": "2025-01-03",
+    "customerId": "CT-MARRT",
+    "remark": "VIP wedding banquet — any source"
+  }
+]

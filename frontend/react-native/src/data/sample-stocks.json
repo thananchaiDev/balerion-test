@@ -1,0 +1,68 @@
+[
+  {
+    "warehouseId": "WH-BKK",
+    "supplierId": "SP-MOWI",
+    "itemId": "SAL-NOR-A",
+    "quantity": 250
+  },
+  {
+    "warehouseId": "WH-BKK",
+    "supplierId": "SP-AQCH",
+    "itemId": "SAL-NOR-A",
+    "quantity": 180
+  },
+  {
+    "warehouseId": "WH-CNX",
+    "supplierId": "SP-MOWI",
+    "itemId": "SAL-NOR-A",
+    "quantity": 80
+  },
+  {
+    "warehouseId": "WH-HKT",
+    "supplierId": "SP-BAKK",
+    "itemId": "SAL-NOR-A",
+    "quantity": 120
+  },
+  {
+    "warehouseId": "WH-PTY",
+    "supplierId": "SP-AQCH",
+    "itemId": "SAL-NOR-A",
+    "quantity": 220
+  },
+  {
+    "warehouseId": "WH-PTY",
+    "supplierId": "SP-SSF",
+    "itemId": "SAL-NOR-A",
+    "quantity": 60
+  },
+  {
+    "warehouseId": "WH-BKK",
+    "supplierId": "SP-MOWI",
+    "itemId": "SAL-CHI-A",
+    "quantity": 90
+  },
+  {
+    "warehouseId": "WH-BKK",
+    "supplierId": "SP-AQCH",
+    "itemId": "SAL-CHI-A",
+    "quantity": 140
+  },
+  {
+    "warehouseId": "WH-CNX",
+    "supplierId": "SP-AQCH",
+    "itemId": "SAL-CHI-A",
+    "quantity": 55
+  },
+  {
+    "warehouseId": "WH-HKT",
+    "supplierId": "SP-BAKK",
+    "itemId": "SAL-CHI-A",
+    "quantity": 70
+  },
+  {
+    "warehouseId": "WH-PTY",
+    "supplierId": "SP-SSF",
+    "itemId": "SAL-CHI-A",
+    "quantity": 110
+  }
+]

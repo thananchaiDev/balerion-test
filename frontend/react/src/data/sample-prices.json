@@ -1,0 +1,22 @@
+[
+  { "itemId": "SAL-NOR-A", "supplierId": "SP-MOWI", "basePrice": 123.49 },
+  { "itemId": "SAL-NOR-A", "supplierId": "SP-AQCH", "basePrice": 119.0 },
+  { "itemId": "SAL-NOR-A", "supplierId": "SP-BAKK", "basePrice": 125.5 },
+  { "itemId": "SAL-NOR-A", "supplierId": "SP-SSF", "basePrice": 121.75 },
+  { "itemId": "SAL-NOR-B", "supplierId": "SP-MOWI", "basePrice": 95.0 },
+  { "itemId": "SAL-NOR-B", "supplierId": "SP-AQCH", "basePrice": 92.5 },
+  { "itemId": "SAL-NOR-B", "supplierId": "SP-BAKK", "basePrice": 96.25 },
+  { "itemId": "SAL-NOR-B", "supplierId": "SP-SSF", "basePrice": 94.0 },
+  { "itemId": "SAL-CHI-A", "supplierId": "SP-MOWI", "basePrice": 99.75 },
+  { "itemId": "SAL-CHI-A", "supplierId": "SP-AQCH", "basePrice": 95.5 },
+  { "itemId": "SAL-CHI-A", "supplierId": "SP-BAKK", "basePrice": 102.0 },
+  { "itemId": "SAL-CHI-A", "supplierId": "SP-SSF", "basePrice": 98.25 },
+  { "itemId": "SAL-FAR-A", "supplierId": "SP-MOWI", "basePrice": 115.0 },
+  { "itemId": "SAL-FAR-A", "supplierId": "SP-AQCH", "basePrice": 111.5 },
+  { "itemId": "SAL-FAR-A", "supplierId": "SP-BAKK", "basePrice": 108.75 },
+  { "itemId": "SAL-FAR-A", "supplierId": "SP-SSF", "basePrice": 113.0 },
+  { "itemId": "SAL-SCT-A", "supplierId": "SP-MOWI", "basePrice": 118.5 },
+  { "itemId": "SAL-SCT-A", "supplierId": "SP-AQCH", "basePrice": 116.0 },
+  { "itemId": "SAL-SCT-A", "supplierId": "SP-BAKK", "basePrice": 119.75 },
+  { "itemId": "SAL-SCT-A", "supplierId": "SP-SSF", "basePrice": 114.25 }
+]
